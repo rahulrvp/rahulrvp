@@ -12,6 +12,16 @@
 
 <a href="https://icons8.com/icon/14100/download">Download icon by Icons8</a>
 
+### Skills and Tools
+- 🤖 Android - Java - Kotlin - Android Studio
+- 🐦 Flutter - Dart - VSCode
+- :octocat: Git - Github
+- 📱 iOS - Objective-C - Swift (Beginner)
+- 📱 React Native (Beginner)
+- 📱 Cordova (Beginner)
+- 🍒 RoR - Ruby (Beginner)
+- ⚙️ Elixir (Beginner)
+
 ---
 
 [![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulrvp)](https://github.com/anuraghazra/github-readme-stats)
