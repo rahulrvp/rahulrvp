@@ -1,4 +1,4 @@
-### Hi there 👋 I am Rahul Raveendran (He/Him)
+### Hi there 👋 I am Rahul (He/Him)
 
 - 🔭 I’m currently working on [Blueshift](https://blueshift.com/)'s [Android SDK.](https://github.com/blueshift-labs/Blueshift-Android-SDK)
 - 🌱 I’m currently learning Flutter, iOS, Elixir and effective communication skils!
@@ -13,6 +13,7 @@
 <a href="https://icons8.com/icon/14100/download">Download icon by Icons8</a>
 
 ### Skills and Tools
+
 - 🤖 Android - Java - Kotlin - Android Studio
 - 🐦 Flutter - Dart - VSCode
 - :octocat: Git - Github
@@ -22,8 +23,6 @@
 - 🍒 RoR - Ruby (Beginner)
 - ⚙️ Elixir (Beginner)
 
----
+### The mandatory GitHub Stats Badge 😉
 
 [![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulrvp)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulrvp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
