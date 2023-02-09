@@ -22,7 +22,4 @@
 - 📱 Cordova (Beginner)
 - 🍒 RoR - Ruby (Beginner)
 - ⚙️ Elixir (Beginner)
-
-### The mandatory GitHub Stats Badge 😉
-
-[![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulrvp)](https://github.com/anuraghazra/github-readme-stats)
+- ⚙️ Rust (Beginner)
