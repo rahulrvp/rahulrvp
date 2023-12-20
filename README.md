@@ -8,7 +8,7 @@
 
 ### Connect with me
 
-[![Linkedin](https://img.icons8.com/color/32/000000/linkedin.png)](https://www.linkedin.com/in/rahulrvp/) [![Twitt](https://img.icons8.com/color/32/000000/twitter--v1.png)](https://twitter.com/rahulrvp89) [![Email](https://img.icons8.com/color/32/000000/gmail--v1.png)](mailto:rahul.pmna@gmail.com)
+[![Linkedin](https://img.icons8.com/color/32/000000/linkedin.png)](https://www.linkedin.com/in/rahulrvp/) [![Twitt](https://img.icons8.com/color/32/000000/twitter--v1.png)](https://twitter.com/rahulrvp_) [![Email](https://img.icons8.com/color/32/000000/gmail--v1.png)](mailto:rahul.pmna@gmail.com)
 
 <a href="https://icons8.com/icon/14100/download">Download icon by Icons8</a>
 
