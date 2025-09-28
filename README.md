@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Rahul (He/Him)
-
-- 🔭 I’m currently working on [Blueshift](https://blueshift.com/)'s [Android SDK.](https://github.com/blueshift-labs/Blueshift-Android-SDK)
+- 🔭 Senior Software Engineer at [Mixpanel](https://mixpanel.com/), building mobile SDKs (Android, iOS, Flutter, React Native).
+- 🔭 I developed [Blueshift](https://blueshift.com/)'s [Android SDK.](https://github.com/blueshift-labs/Blueshift-Android-SDK) from the ground up and maintained it through June 2025.
 - 🌱 I’m currently learning Flutter, iOS, Elixir and effective communication skils!
 - 👯 I’m looking to collaborate on any cool **Open Source Project**.
 - 💬 Ask me about anything! You are always not looking for an answer, right? 😉
