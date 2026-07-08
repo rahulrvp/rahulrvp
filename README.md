@@ -1,25 +1,37 @@
-### Hi there 👋 I am Rahul (He/Him)
-- 🔭 Senior Software Engineer at [Mixpanel](https://mixpanel.com/), building mobile SDKs (Android, iOS, Flutter, React Native).
-- 🔭 I developed [Blueshift](https://blueshift.com/)'s [Android SDK.](https://github.com/blueshift-labs/Blueshift-Android-SDK) from the ground up and maintained it through June 2025.
-- 🌱 I’m currently learning Flutter, iOS, Elixir and effective communication skils!
-- 👯 I’m looking to collaborate on any cool **Open Source Project**.
-- 💬 Ask me about anything! You are always not looking for an answer, right? 😉
-- ⚡ Fun fact: I can do pensil sketches! Still an amateur.
+# Hi there, I'm Rahul! 👋 (He/Him)
 
-### Connect with me
+Senior Software Engineer & Mobile App Enthusiast. I specialize in mobile architecture, developer tooling, and building high-performance SDKs that power seamless data analytics across millions of devices.
 
-[![Linkedin](https://img.icons8.com/color/32/000000/linkedin.png)](https://www.linkedin.com/in/rahulrvp/) [![Twitt](https://img.icons8.com/color/32/000000/twitter--v1.png)](https://twitter.com/rahulrvp_) [![Email](https://img.icons8.com/color/32/000000/gmail--v1.png)](mailto:rahul.pmna@gmail.com)
+---
 
-<a href="https://icons8.com/icon/14100/download">Download icon by Icons8</a>
+### 🚀 What I Do
 
-### Skills and Tools
+- 🛠️ **Mixpanel:** Engineering and maintaining core mobile & server-side SDKs. Check out my contributions over at [@rahul-mixpanel](https://github.com/rahul-mixpanel).
+- 🤖 **AI Workflows:** Leveraging **Claude Code** and **Gemini** to optimize development velocity and speed up feature delivery.
+- 🏗️ **Past Work:** Architected and developed [Blueshift's Android SDK](https://github.com/blueshift-labs/Blueshift-Android-SDK) from the ground up (through mid-2025).
+- 🌱 **Mindset:** An adaptive engineer focused on mastering new stacks on-demand and collaborating on open-source mobile tools.
 
-- 🤖 Android - Java - Kotlin - Android Studio
-- 🐦 Flutter - Dart - VSCode
-- :octocat: Git - Github
-- 📱 iOS - Objective-C - Swift (Beginner)
-- 📱 React Native (Beginner)
-- 📱 Cordova (Beginner)
-- 🍒 RoR - Ruby (Beginner)
-- ⚙️ Elixir (Beginner)
-- ⚙️ Rust (Beginner)
+---
+
+### 🛠️ Technical Ecosystem
+
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Mobile Core** | Android (Kotlin, Java, Android Studio), iOS (Swift, Objective-C, Xcode) |
+| **Cross-Platform** | Flutter & Dart, React Native, Cordova |
+| **Engineering & AI Tools** | Claude Code, Gemini, Git, GitHub Actions, CI/CD Automation |
+
+---
+
+### 💬 Let's Connect
+
+Let's talk SDK architecture, mobile performance metrics, pencil sketching, or anything dev-related! 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahulrvp/)
+[![X / Twitter](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/rahulrvp_)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahul.pmna@gmail.com)
+
+---
+
+### ⚡ Fun Fact
+🎨 When I'm away from the IDE, I spend time on pencil sketching. Still an amateur, but it’s a great way to render ideas on a completely different kind of canvas!
